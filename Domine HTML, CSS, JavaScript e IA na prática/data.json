@@ -1,0 +1,20 @@
+[
+{
+    "nome": "JavaScript",
+    "descricao": "o JS é a linguagem de programação da web",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide"
+},
+{
+    "nome": "CSS",
+    "descricao": "o Cascading Style Sheets é uma linguagem de estilo para a web",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide"
+},
+{
+    "nome": "HTML",
+    "descricao": "o HTML é uma linguagem de marcação ede estrutura para a web",
+    "ano": 1995,
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+}
+]
